@@ -1,1 +1,1 @@
-https://github.com/Temasevastopol/rsschool-cv/
+https://github.com/Temasevastopol/rsschool-cv/cv
